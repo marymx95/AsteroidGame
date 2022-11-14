@@ -58,32 +58,6 @@ Blaster Game Video: (Consider downloading for better quality! Captions have been
 
 Blaster Game Starter Code: [https://drive.google.com/file/d/1r5YC7vx\_9l5GBzTYRpGE-5ewFbGN12Lk/view?usp=sharing](https://drive.google.com/file/d/1r5YC7vx_9l5GBzTYRpGE-5ewFbGN12Lk/view?usp=sharing)
 
-## **Screenshots and Game Overview**
-
-The landing page:
-
-[](RackMultipart20221114-1-dvseox_html_3c5f6962874ab335.png)
-
-"How to play" page:
-
-![](RackMultipart20221114-1-dvseox_html_851a79f640817ae7.png)
-
-"Get Ready" splash screen:
-
-![](RackMultipart20221114-1-dvseox_html_f7ee53823a78882d.png)
-
-Gameplay, with the scoreboard on the top right:
-
-![](RackMultipart20221114-1-dvseox_html_4d636dc7060bc593.png)
-
-Settings panel:
-
-![](RackMultipart20221114-1-dvseox_html_5bfb41ac0d79dbfc.png)
-
-Game over page:
-
-![](RackMultipart20221114-1-dvseox_html_27d9c2a9b21bb6d8.png)
-
 ## **Requirements**
 
 We outline requirements for each of the game components below. **Everything listed below,** _ **unless** _ **labeled as "Suggested", is required**. The demo video & screenshots may be helpful in understanding the game; however, **your game does** _ **NOT** _ **need to look exactly like them.** You are allowed to change anything in "index.html", "index.css", and "page.js".
