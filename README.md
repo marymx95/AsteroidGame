@@ -46,7 +46,6 @@ Remarks:
 ## **Contents of This Spec**
 
 - [Blaster Game Demo](#_heading=h.9akqt6kxu6hc)
-- [Assignment 2 Screenshots and Game Overview](#_heading=h.9l2ds68nemrt)
 - [Assignment 2 Feature Requirements](#_heading=h.vivweaup924w)
 - [Assignment 2 Common Hints and Tips](#_heading=h.7nep75th5xdd)
 
