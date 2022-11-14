@@ -62,7 +62,7 @@ Blaster Game Starter Code: [https://drive.google.com/file/d/1r5YC7vx\_9l5GBzTYRp
 
 The landing page:
 
-![](RackMultipart20221114-1-dvseox_html_3c5f6962874ab335.png)
+[](RackMultipart20221114-1-dvseox_html_3c5f6962874ab335.png)
 
 "How to play" page:
 
